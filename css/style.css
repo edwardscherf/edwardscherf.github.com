@@ -74,3 +74,18 @@ section {
         padding: 0;
         text-align: center;
         }
+
+        .contact {
+            padding-top: 30px;
+            }
+
+    section p a {
+        font-family: 'Merriweather Sans', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 48px;
+        color: #7852A1;
+        text-decoration: none;
+        border-bottom: 1px solid #7852A1;
+        }
